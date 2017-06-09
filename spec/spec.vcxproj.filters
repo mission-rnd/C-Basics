@@ -53,5 +53,14 @@
     <ClCompile Include="octalToHexadecimalSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="swapBitsSpec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="isPerfectSpec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="countFactorialsSpec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

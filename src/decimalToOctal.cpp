@@ -12,11 +12,18 @@ INPUTS: Single decimal number num;
 OUTPUT: Octal value of the Decimal Number num.
 
 Discalimer:Return 0 for invalid cases.[Negetive Numbers]
-*/
 
-#include <stdio.h>
+There are no test cases for fraction method but it would be good if you complete that too.
+*/
+#include<stdlib.h>
 
 int decimalToOctal(int num)
 {
-	return -1;
+	return 0;
 }
+
+float decimalToOctalFraction(float num)
+{
+	return 0.0;
+}
+

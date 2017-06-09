@@ -45,6 +45,15 @@
     <ClCompile Include="octalToHexadecimal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="swapBits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="isPerfect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="countFactorials.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FunctionHeadersBasics.h">

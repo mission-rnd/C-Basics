@@ -8,3 +8,5 @@ int nthFibonacci(int);
 int nthPrime(int);
 int decimalToOctal(int);
 int octalToHexadecimal(int);
+unsigned int swapBits(unsigned int, int, int, int);
+void isPerfect(long [], int [], int );
